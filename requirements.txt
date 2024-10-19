@@ -1,0 +1,8 @@
+gradio
+requests
+numpy
+transformers
+fastapi
+uvicorn
+pytest
+pydantic
